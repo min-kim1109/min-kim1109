@@ -4,8 +4,8 @@ I've grown up my entire childhood to early adulthood with an immense love for co
 
 Most of my projects showcase my proficiency in JavaScript, Python, Flask, HTML, and CSS. I've worked on two solo personal projects where I showcase those skills as well as a group project with 3 other developers where we exercised not only our technical know-how, but also the ability to work cohesively in a group setting. These projects tackle the multitude of moving parts that is a full-stack application, and delineate a high-level of understanding of how backend and frontend development are woven together to ultimately enrich a user's experience. 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
